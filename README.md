@@ -1,7 +1,7 @@
 ```markdown
 # Excel Data Validation API
 
-This document explains how to set up and run the **Excel Data Validation API** locally, how the validation logic works, how large `.xlsx` files are handled, and the optimizations that have been implemented to ensure high performance.
+This document explains how to set up and run the Excel Data Validation API locally, how the validation logic works, how large `.xlsx` files are handled, and the optimizations that have been implemented to ensure high performance.
 
 ---
 
