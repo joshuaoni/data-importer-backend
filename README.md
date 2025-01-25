@@ -11,8 +11,8 @@ This document explains how to set up and run the **Excel Data Validation API** l
 To clone the repository to your local machine, run the following command in your terminal:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/joshuaoni/data-importer-backend.git
+cd data-importer-backend
 ```
 
 ### 2. Install Dependencies
