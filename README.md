@@ -1,5 +1,3 @@
-Got it! Here's the full explanation in one cohesive markdown document with no code snippets but detailed instructions and explanations:
-
 ```markdown
 # Excel Data Validation API
 
