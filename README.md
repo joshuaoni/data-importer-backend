@@ -86,5 +86,3 @@ The response will contain the following:
 - The system is optimized to handle large files with minimal memory consumption.
 - Validation rules for each sheet are highly customizable through the configuration file, allowing for easy updates and extensions.
 - Ensure the uploaded `.xlsx` file does not exceed the 2MB file size limit.
-
-```
