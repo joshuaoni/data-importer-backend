@@ -83,20 +83,8 @@ The response will contain the following:
 
 ## Summary of Key Features
 
-- **Flexibility**: The backend can handle multiple sheets with different structures and validation rules, all without duplicating code.
-- **Performance Optimization**: Large `.xlsx` files with thousands of rows can be processed efficiently, with memory optimizations and incremental parsing.
-- **Dynamic Configuration**: Validation rules for each sheet are specified in a configuration file, making it easy to add or modify sheets and their validation logic.
-- **Error Reporting**: Any data issues are flagged during the processing, with detailed error messages indicating exactly where the problems are.
-- **Bulk Data Import**: Once validated, the data is imported into the database using a bulk insert, which ensures quick and efficient data processing.
-
----
-
-## Notes
-
 - The system is optimized to handle large files with minimal memory consumption.
 - Validation rules for each sheet are highly customizable through the configuration file, allowing for easy updates and extensions.
 - Ensure the uploaded `.xlsx` file does not exceed the 2MB file size limit.
 
 ```
-
-This document explains all the features, validation logic, and optimizations used in the backend API, and how to set it up locally. It avoids code snippets and instead provides an overview of how everything works together.
