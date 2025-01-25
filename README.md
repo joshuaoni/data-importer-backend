@@ -60,6 +60,8 @@ The backend is optimized to process `.xlsx` files with thousands of rows without
 
 5. **Bulk Insert**: After validation, the data is inserted into the database in bulk. This method significantly speeds up the insertion process for large datasets, ensuring that the system performs efficiently even when dealing with large volumes of data.
 
+6. **Compression**: Use of compression middleware to reduce larger files to sizes below 2MB.
+
 ---
 
 ## API Routes and Request Formats
